@@ -5,4 +5,4 @@ tags:
 ---
 # evan pictures
 
-![[Photo on 5-7-13.jpg]]
+![[media/pictures/Photo on 5-7-13.jpg]]

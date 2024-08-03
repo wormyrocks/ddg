@@ -16,7 +16,7 @@ code
 ## a picture
 
 pictures should go in `/media` but can be sorted further if needed
-![[20230404_0285.jpg]]
+![[media/pictures/20230404_0285.jpg]]
 
 ## a video
 
