@@ -5,6 +5,7 @@
   "attachmentFolderPath": "media/pictures",
   "userIgnoreFilters": [
     "node_modules/",
-    "public/"
+    "public/",
+    "quartz/"
   ]
 }

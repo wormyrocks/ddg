@@ -35,11 +35,13 @@ general organization / hierarchy
 
 # random notes
 
-base url is stored in `quartz.config.ts`
-`ctrl+o` searches for a file
-`ctrl+p` searches for a command
-`ctrl+e` switches between edit and view modes
-`ctrl+,` opens preferences
+base url is stored in `quartz.config.ts`  
+`ctrl+o` searches for a file  
+`ctrl+p` searches for a command  
+`ctrl+e` switches between edit and view modes  
+`ctrl+,` opens preferences  
+
+**in markdown, the most annoying thing to remember is that you need to use two spaces before it will insert a new line lol**
 
 ## adding a new page
 
