@@ -2,7 +2,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "content",
-  "attachmentFolderPath": "media/",
+  "attachmentFolderPath": "media/pictures",
   "userIgnoreFilters": [
     "node_modules/",
     "public/"
