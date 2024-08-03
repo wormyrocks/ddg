@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content",
+  "attachmentFolderPath": "media/",
+  "userIgnoreFilters": [
+    "node_modules/",
+    "public/"
+  ]
+}
