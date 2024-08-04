@@ -2,10 +2,11 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "content",
-  "attachmentFolderPath": "media/pictures",
+  "attachmentFolderPath": "content/assets/pictures",
   "userIgnoreFilters": [
     "node_modules/",
     "public/",
     "quartz/"
-  ]
+  ],
+  "showUnsupportedFiles": true
 }
