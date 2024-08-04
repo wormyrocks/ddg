@@ -32,3 +32,7 @@ Bandcamp embed! (Doesn't appear in obsidian but works in browser!)
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2112712277/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://dannn.bandcamp.com/album/deejay-slide-seven-hundred-2">Deejay Slide / Seven Hundred by DANNN</a></iframe>
 
 The trick for these embeds is to just type an HTML div right into the markdown.
+
+---
+
+[click here to edit this page](https://github.com/wormyrocks/ddg/blob/v4/content/test.md)
