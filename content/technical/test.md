@@ -15,7 +15,7 @@ code
 
 ## a picture
 
-pictures should go in `/media` but can be sorted further if needed
+pictures should go in `/assets/pictures` but can be sorted further if needed
 ![[content/assets/pictures/20230404_0285.jpg]]
 
 ## a video
@@ -35,4 +35,4 @@ The trick for these embeds is to just type an HTML div right into the markdown.
 
 ---
 
-[click here to edit this page](https://github.com/wormyrocks/ddg/blob/v4/content/test.md)
+[click here to edit this page](https://github.com/wormyrocks/ddg/blob/v4/content/technical/test.md)
