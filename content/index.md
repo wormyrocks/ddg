@@ -4,8 +4,10 @@ draft: false
 tags:
 ---
 start here.  
-let's keep notes on how to update the page [[how-to]].  
+let's keep notes on how to update the page [[how-to]]. 
+
 put anything you want in the [[test]].  
+test out page-specific stylings in [[page-specific css test]].
 
 ## [[pictures]]
 
