@@ -1,5 +1,5 @@
 ---
-title: dan's digital garden
+title: media slide test
 draft: false
 tags:
 ---
