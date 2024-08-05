@@ -1,5 +1,5 @@
 ---
-title: put anything you want here
+title: sandbox
 draft: false
 tags:
 ---
@@ -16,7 +16,7 @@ code
 ## a picture
 
 pictures should go in `/media` but can be sorted further if needed
-![[20230404_0285.jpg]]
+![[content/assets/pictures/20230404_0285.jpg]]
 
 ## a video
 
