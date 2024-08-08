@@ -9,12 +9,16 @@ tags:
 * [nicole vanderhoeven youtube video](https://www.youtube.com/watch?v=6s6DT1yN4dw)
 	* [associated notebook](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages)
 * [morrowind modding wiki](https://morrowind-modding.github.io/contributing/how-to-contribute) (good instructions for beginners wishing to contribute to quartz vault)
+
+---
+
 # steps
 please feel free to add more detail to these as needed
 
 everyone probably needs to do this:
 * install [obsidian](https://obsidian.md/)
 * install [github](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop) and clone [this repository](https://github.com/wormyrocks/ddg)
+	* if you haven't used github before, [add your SSH credentials to your github account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 git-friendly workflow:
 1. install [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-installer-to-install-nodejs-and-npm)
@@ -23,16 +27,24 @@ git-friendly workflow:
 4. `npx quartz build --serve` to preview, opens at http://localhost:8080
 5. install obsidian, open the directory `ddg` as vault to edit and preview locally
 6. `npx quartz sync` to push to git
+	- to continue work: retrieve current files from the repo without losing your current local file progress: `git fetch git@github.com:wormyrocks/ddg`. [more info here](https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository)
 
 non-git workflow:
 use [noteshub](https://about.noteshub.app/)?
 use [pull](https://github.com/apps/pull)?
 
+----
 # todo
-domain
-themes?
-general organization / hierarchy
+last updated 8/8/2024 
+- [ ] domain
+- [ ] themes?
+- [ ] general organization / hierarchy 
+- [ ] figure out/create css page templates 
+- [ ] do better pdf previews 
+- [ ] figure out media content slides 
+- [ ] add year/season attribution to content posted 
 
+----
 # random notes
 
 base url is stored in `quartz.config.ts`  
@@ -43,6 +55,8 @@ base url is stored in `quartz.config.ts`
 
 **in markdown, the most annoying thing to remember is that you need to use two spaces before it will insert a new line lol**
 
+----
+
 ## adding a new page
 
 creating a new page requires adding frontmatter. the file should be created in `content/` and should be created from `template/default.md`. so in obsidian this looks like:
@@ -51,6 +65,8 @@ creating a new page requires adding frontmatter. the file should be created in `
 * `Ctrl-P` -> `Templates: Insert template` -> `default`
 * then you should have a new page that lets you enter a title, tags, and mark it as a draft.
 	* not quite sure how marking something as a draft behaves. will investigate with [[draft test]].
+
+----
 
 ## embeds
 

@@ -12,7 +12,7 @@ pictures go here
 ![[Dan-July-21-2018 1.jpg]]
 > _July 21, 2018, Chicago_
 > 
->  After Dan felt really bummed out after a long day of editing stuff for the F News site (SAIC's school newspaper), we decided to go out for a walk around UIC's campus. We admired and were in awe of the amount of concrete and the architecture there as the sun was setting, while talking about Mark Fisher's writing. 
+>  After Dan felt really bummed out after a long day of editing stuff for the F News Magazine site (SAIC's school newspaper), we decided to go out for a walk around UIC's campus. We admired and were in awe of the amount of concrete and the architecture there as the sun was setting, while talking about Mark Fisher's writing. 
 >  
 >  I'd like to believe that looking into this never-ending cascade of concrete buildings and ceiling lights from outside ended up inspiring him to make a 3D video piece that evoked this feeling.
 >  
