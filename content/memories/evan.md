@@ -2,6 +2,7 @@
 title: memories - evan
 draft: true
 tags:
+  - memories
 ---
 (if anyone finds this page, it's still a draft!)
 
