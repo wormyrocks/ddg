@@ -3,6 +3,8 @@ title: WTF is New Media?
 draft: false
 tags:
   - writings
+from: 2017-07-12
+place: Internet
 ---
 > [!info] 
 > 
@@ -20,7 +22,7 @@ The third is a curveball:
 
 _“What is New Media?”_
 
-Anyone who has been asked this question in earnest will struggle to answer. A particularly popular response is to generalize the category with a vague answer along the lines of _“_oh, you know, like computer art.” Skipping this to talk about one’s specific medium of choice is another: “I’m a net artist,” or, “my work is mostly internet based.” The only way to piece together a definition then is through the technologies included, and excluded, in what is already considered “New Media” art. New Media is inherently a contradictory and evasive label. The components of what is new are always changing, never static.
+Anyone who has been asked this question in earnest will struggle to answer. A particularly popular response is to generalize the category with a vague answer along the lines of “oh, you know, like computer art.” Skipping this to talk about one’s specific medium of choice is another: “I’m a net artist,” or, “my work is mostly internet based.” The only way to piece together a definition then is through the technologies included, and excluded, in what is already considered “New Media” art. New Media is inherently a contradictory and evasive label. The components of what is new are always changing, never static.
 
 Computers in the form of machines capable of mathematical calculations have existed since antiquity. The modern incarnation of electronic computers originated around the beginning of the twentieth century. The World Wide Web is twenty-six years old as of 2017, with the infrastructures of the internet predating that by at least another twenty-six. Simply put, the technologies described by New Media simply are not new anymore. If the “new” in New Media means “new on the scale of fine arts,” then New Media acts as just another term to insulate art from any other consideration or outside critique. Either way, New Media is deliberately made into a hazy target. You can’t offer criticism of something that is never clearly in focus.
 

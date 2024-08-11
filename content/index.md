@@ -7,15 +7,17 @@ Growing, tending, and loving a garden for Daniel Adin Brookman, January 2 1995 -
 
 -----
 
-## [[music]]
+## [[memories index]]
+## [[music index]]
 ## [[pictures]]
-## [[writings and notes]]
+## [[writings and notes index]]
+
 
 -----
 
 ## about the website
 
-This space on the internet is an ever-growing garden dedicated to remembering our collaborator, hypeman, and most importantly -- beloved friend Dan. 
+This space on the internet is an ever-growing garden and living archive dedicated to remembering our collaborator, cheerleader, supporter, and most importantly -- beloved friend Dan. 
 
 Dan's garden is tended by his friends that he has made over the course of his life. We hope to explore, grow, and expand this garden with you as we reflect on memories and continue to make to new ones alongside Dan's spirit with the myriad of gifts he has left behind for us.
 
