@@ -1,7 +1,8 @@
 ---
-title: Dan's Digital Garden
+title: Memories
 draft: false
-tags: memories
+tags:
+  - memories
 ---
 
 > [!info] in progress
