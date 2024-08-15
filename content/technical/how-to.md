@@ -89,3 +89,19 @@ here's what soundcloud's embed code (found under share -> embed -> code) looks l
 ```
 
 (see [[test#Embedded music]])
+
+---
+
+## custom CSS
+
+it's possible to add specific css to pages by adding `[data-slug=""]` to  `quartz/styles/custom.scss`. 
+
+for example, if you want to change the color of the text on link hovers on *this* page, AND override default CSS stylings:
+
+`quartz/styles/custom.scss`
+
+```ts
+[data-slug="technical/how-to"] a:hover { color: purple !important; } 
+// turns the hover color on a page purple.
+```
+
