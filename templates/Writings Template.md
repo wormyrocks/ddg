@@ -3,6 +3,6 @@ title:
 draft: false
 tags:
   - writings
-from: ""
+date: ""
 place:
 ---
