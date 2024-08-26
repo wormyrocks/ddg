@@ -35,7 +35,7 @@ use [pull](https://github.com/apps/pull)?
 
 ----
 # todo
-last updated 8/8/2024 
+last updated 8/25/2024 
 - [ ] domain
 - [ ] themes?
 - [ ] general organization / hierarchy 
@@ -43,6 +43,7 @@ last updated 8/8/2024
 - [ ] do better pdf previews 
 - [ ] figure out media content slides 
 - [ ] add year/season attribution to content posted 
+
 
 ----
 # random notes
@@ -105,3 +106,6 @@ for example, if you want to change the color of the text on link hovers on *this
 // turns the hover color on a page purple.
 ```
 
+---
+
+## 
