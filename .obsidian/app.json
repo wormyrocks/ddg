@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "content",
   "attachmentFolderPath": "content/assets/pictures",
   "userIgnoreFilters": [

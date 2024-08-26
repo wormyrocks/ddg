@@ -9,6 +9,7 @@ tags:
 * [nicole vanderhoeven youtube video](https://www.youtube.com/watch?v=6s6DT1yN4dw)
 	* [associated notebook](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages)
 * [morrowind modding wiki](https://morrowind-modding.github.io/contributing/how-to-contribute) (good instructions for beginners wishing to contribute to quartz vault)
+* [eileen's quartz](https://quartz.eilleeenz.com/Quartz-customization-log) has a really good customization log
 
 ---
 
@@ -40,7 +41,7 @@ last updated 8/25/2024
 - [ ] themes?
 - [ ] general organization / hierarchy 
 - [ ] figure out/create css page templates 
-- [ ] do better pdf previews 
+- [x] do better pdf previews 
 - [ ] figure out media content slides 
 - [ ] add year/season attribution to content posted 
 
@@ -80,7 +81,7 @@ for example: [[content/technical/index|index]]
 
 ## embeds
 
-you should be able to drag and drop pictures into obsidian and if all goes right it should get copied into `/media`.
+you should be able to drag and drop pictures into obsidian and if all goes right it should get copied into `/assets`.
 
 for youtube stuff, it looks like you can embed with this syntax:
 

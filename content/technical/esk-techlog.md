@@ -6,7 +6,7 @@ tags:
 ---
 # To do
 
-- [ ] add links to writing from cohost
+- [x] add links to writing from cohost
 - [x] pdf preview show up at correct size
 - [ ] static dataview plugin to sort stuff by dates
 - [ ] slideshow view
@@ -32,3 +32,23 @@ obsidian - advanced slides
 		- sorta branching off this: https://help.obsidian.md/Linking+notes+and+files/Embed+files#Embed+a+PDF+in+a+note
 		- updated the quartz pdf emitter so it will read the image dimension tags in the same way that the image emitter does
 		- tadaaa! [[Builders]] (it won't show up properly in obsidian, but should work on the deployed site)
+- static dataview plugin
+	- to come back to: dataview example [here](https://quartz.eilleeenz.com/tbd/Dataview-reference)
+	- probably oughtta use this plugin https://github.com/dsebastien/obsidian-dataview-serializer
+- slides
+	- NVDH has a [video on this](https://www.youtube.com/watch?v=LtBK_iNcVEQ)
+		- it's [not being built into quartz directly](https://github.com/jackyzha0/quartz/issues/955)
+		- probably just need to use reveal.js or splide directly and then add a slide compile into the build steps
+- added cohost pages
+	- [[the-tower]]
+	- [[on-bottomless-pits]]
+	- [[boundless-network-cyberspace]]
+	- copied the header images from cohost posts
+	- no good way to make images take up 100% of page size in obsidian, but if you just set width to something arbitrarily large (2000 worked?) they get auto-shrunk by quartz
+- set `New Note` to open a new note in 'current folder' rather than in `content/`
+- updated keyboard shortcuts (sorry, everyone else):
+	- `Alt+H`, `Alt+J`, `Alt+K`, `Alt+L` for navigating between panes
+	- `Ctrl+Alt+B` for toggling left sidebar
+	- `Ctrl+Alt+H` for toggling right sidebar
+	- `Ctrl+Alt+J` to split down
+	- `Ctrl+Alt+L` to split right
