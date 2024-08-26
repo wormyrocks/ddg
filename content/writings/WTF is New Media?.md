@@ -3,7 +3,7 @@ title: WTF is New Media?
 draft: false
 tags:
   - writings
-from: 2017-07-12
+date: 2017-07-12
 place: Internet
 ---
 > [!info] 

@@ -69,6 +69,15 @@ creating a new page requires adding frontmatter. the file should be created in `
 
 ----
 
+## subpages / folder pages
+
+if you just want to throw a bunch of files into a directory and have a base site that links to all of them, put a file called `index.md` at the root of the directory, add frontmatter (which lets you set the title), and leave the rest of it blank.
+then, the other files inside the subpage
+this could be useful if, for instance, we wanted a top-level page that links to all the audio files, but unfortunately it only seems to work for markdown.
+for example: [[content/technical/index|index]]
+
+----
+
 ## embeds
 
 you should be able to drag and drop pictures into obsidian and if all goes right it should get copied into `/media`.

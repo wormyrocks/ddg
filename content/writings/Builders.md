@@ -3,7 +3,7 @@ title: Builders
 draft: false
 tags:
   - writings
-from: 2019-11-13
+date: 2019-11-13
 place: Chicago
 ---
 

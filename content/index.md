@@ -10,7 +10,7 @@ Growing, tending, and loving a garden for Daniel Adin Brookman, January 2 1995 -
 ## [[memories index]]
 ## [[music index]]
 ## [[pictures]]
-## [[writings and notes index]]
+## [[writings/|writings and notes]]
 
 
 -----
