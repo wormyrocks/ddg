@@ -7,7 +7,7 @@ tags:
 # To do
 
 - [ ] add links to writing from cohost
-- [ ] pdf preview show up at correct size
+- [x] pdf preview show up at correct size
 - [ ] static dataview plugin to sort stuff by dates
 - [ ] slideshow view
 
@@ -25,3 +25,10 @@ obsidian - advanced slides
 		- that means the auto-generated folder listing on our [[writings/]] page sorts by actual date written!
 		- in case we want to leverage this elsewhere, also noticed that the `from` property was also being used on [[07-21-2018|this page]] - renamed it to `date`
 			- side benefit of this change: we now have an automatically sorted [[memories/by year/2018|2018 memories]] folder page!
+- fixing pdf height
+	- [stack overflow to the rescue](https://stackoverflow.com/questions/72381658/how-to-embed-pdf-within-an-iframe-with-height-exactly-one-page) - it's a quartz bug!
+	- changed default pdf embed style in `transformers/ofm.ts` to set `style= width:100%;` for all pdf embeds
+	- getting fancy: ok, the quartz composer will now automatically set the aspect ratio if you put it in the metadata
+		- sorta branching off this: https://help.obsidian.md/Linking+notes+and+files/Embed+files#Embed+a+PDF+in+a+note
+		- updated the quartz pdf emitter so it will read the image dimension tags in the same way that the image emitter does
+		- tadaaa! [[Builders]] (it won't show up properly in obsidian, but should work on the deployed site)

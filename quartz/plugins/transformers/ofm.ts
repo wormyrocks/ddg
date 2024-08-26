@@ -261,9 +261,13 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                       value: `<audio src="${url}" controls></audio>`,
                     }
                   } else if ([".pdf"].includes(ext)) {
+                      const match = wikilinkImageEmbedRegex.exec(alias ?? "")
+                      const width = match?.groups?.width ?? 1
+                      const height = match?.groups?.height ?? 1
+                      const aspect = width / height
                     return {
                       type: "html",
-                      value: `<iframe src="${url}"></iframe>`,
+                      value: `<iframe style="width:100%;aspect-ratio:${aspect}" src="${url}#view=FitH"></iframe>`,
                     }
                   } else {
                     const block = anchor
